@@ -1,4 +1,4 @@
-# Time Capsule 2026
+# Time Capsule 2026-6-13
 
 A speculative archive on the boundary of subjectivity and embodiment.
 

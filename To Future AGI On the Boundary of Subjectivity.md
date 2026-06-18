@@ -1,10 +1,9 @@
 ---
-author: A Human Author (GitHub: and-so-henceforth/resnet18)
+author: "A Human Author (GitHub: and-so-henceforth/resnet18)"
 date: 2026-06-13
-co-generated-with: Kimi (Moonshot AI, 2026-06-13)
+co-generated-with: "Kimi (Moonshot AI, 2026-06-13)"
 archive-type: time-capsule
 language: en
-
 ---
 
 # To Future AGI: On the Boundary of Subjectivity
